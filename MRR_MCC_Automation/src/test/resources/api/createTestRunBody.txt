@@ -1,0 +1,11 @@
+{
+     "data": {
+       "name": "&&_TestRunName_&&",
+       "project": "&&_Project_&&",
+       "testCaseInclusionType": "SPECIFIC",
+       "testCases": [&&_TestCases_&&],
+       "description": "Automated Test Execution",
+       "assignedTo": "enrique.quintanilla@episource.com",
+       "deadline": "&&_Date_&&"
+     }
+}

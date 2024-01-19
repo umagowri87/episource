@@ -1,0 +1,8 @@
+{
+	"data": {
+    	"comments": "Automated Test Run",
+        "status": "&&_Status_&&",
+        "testRun": "&&_TestRunName_&&",
+        "testCases": [&&_TestCases_&&]            
+	}
+}

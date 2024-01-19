@@ -1,0 +1,17 @@
+mc_chart__c c = new mc_chart__c();
+String chartId = 'a1K8J000000En9N';
+c = [SELECT name,L1_Username__c, L1StartTimeStamp_Date__c, Record_Lock__c, Record_Lock_User__c FROM mc_Chart__c WHERE id=:chartId];
+c.Saved_Record_Status_Check__c = false;
+c.Record_Lock__c = false;
+c.Record_Lock_User__c = null;
+c.L1_Start_TimeStamp__c = null;
+c.L1_Finish_TimeStamp__c = null;
+c.L2_Start_TimeStamp__c = null;
+c.L2_Finish_TimeStamp__c = null;
+c.MA_Start_TimeStamp__c = null;
+c.MA_Finish_TimeStamp__c = null;
+c.L1_Username__c = null;
+c.L2_Username__c = null;
+c.MA_User__c = null;
+c.Status__c = '1 - RAW';
+update c;

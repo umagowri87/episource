@@ -1,0 +1,54 @@
+https://files.slack.com/files-pri/T0393P6QL-F069ZNYC3MW/image.png
+
+https://education.github.com/git-cheat-sheet-education.pdf
+
+https://docs.google.com/document/d/1FZ8kXfQ6fLqaAU6S1Ag5OwHVGmgYParXNjcWIuoHsd8/edit
+7:20
+User Guide
+7:20
+https://docs.google.com/document/d/1sOW0zWfvtRudIO4zieIfzsyDE8auNx-yKMouosA9_fs/edit
+
+orofile-->setting-->developer options-->tokrn generation-->personal-->classic
+
+https://www.qafox.com/
+
+-Dcucumber.filter.tags=@mccs -Denv=uat -Dupdatetuskr=true -Dheadless=false
+https://github.com/EpisourceLLC/MRR_MCC_Automation
+
+https://docs.google.com/spreadsheets/d/1ZFEEPUZWy9SKsyb7J1ki63yLcSVcdbfac0XTl3Xihpo/edit#gid=0
+
+https://github.com/EpisourceLLC/MRR_MCC_Automation
+https://www.geeksforgeeks.org/java-equals-compareto-equalsignorecase-and-compare/
+
+https://episource.slack.com/archives/D04A6H7GC84/p1689666619481079
+
+driver.findElement(By.xpath("//a[text()='" + text + "']")).click();
+7:14
+dynamic text xpath
+//button/span[text()='       Save     ’]
+
+
+Quick links
+3:48
+file:///C:/Users/Admin/Downloads/Pulse%20Secure%20-%20VPN%20Setup%20Instructions%20(1).pdf
+https://life.futuregenerali.in/life-insurance-made-simple/tax-hacks/blogs/how-to-calculate-income-tax-on-salary-with-example/
+https://mstsolutions.deltekfirst.com/MSTSolutions/app/#!Timekeeper/view/0/0/11470%7C2022-11-05%7C%20/presentation
+https://www.inspiredlms.com/admin/login
+https://mstspl.greythr.com/uas/portal/auth/login?login_challenge=24509aa83e44465b9af9b6e1e5f0e8f9
+https://episource--qa.sandbox.my.salesforce.com/
+https://episource--epiuat.sandbox.my.salesforce.com/
+https://www.office.com/?auth=2
+https://gist.github.com/maniSbindra/262313e5ad464913a33a51e61f8f70ca
+
+Future Generali India Life InsuranceFuture Generali India Life Insurance
+How to Calculate Income Tax on Salary with Example
+In this blog, we show you how you can calculate your income tax as well as introduce the best tax saving options
+Jun 4th, 2022 (84 kB)
+
+SVG elements works in this way  https://www.tutorialspoint.com/how-to-use-xpath-in-selenium-webdriver-to-grab-svg-elements#:~:text=To%20create%20a%20xpath%20for,name()%3D'svg'%5D.&text=Here%2C%20data%2Dicon%20is%20an,child%20of%20the%20svg%20tagname.
+
+
+https://www.youtube.com/watch?v=W5U-q3ATfb8
+
+
+
